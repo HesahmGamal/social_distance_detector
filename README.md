@@ -12,5 +12,5 @@ yolov4:
 yolov4-tiny:
 
 
-you also need to import so
+you also need to import (social_distancing_config.py) you can change thresholds from it
 
