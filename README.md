@@ -11,3 +11,6 @@ yolov4:
 
 yolov4-tiny:
 
+
+you also need to import so
+
